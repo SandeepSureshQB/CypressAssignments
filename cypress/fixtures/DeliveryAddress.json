@@ -1,0 +1,9 @@
+{
+  "Forename": "Test",
+  "Surname": "User",
+  "Email": "Tuser@testuse.com",
+  "Telephone": "987654321",
+  "Address": "test Address",
+  "CardType": "Mastercard",
+  "CardNumber": "123123123"
+}
